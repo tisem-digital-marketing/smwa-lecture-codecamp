@@ -1,0 +1,149 @@
+---
+title: "Coding Bootcamp"
+subtitle: "Social Media and Web Analytics"
+author: "Lachlan Deer"
+institute: "Tilburg University"
+date: "Updated: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: font200
+
+# Learning Goals for this Week
+
+* Familarize yourself with the coding tools we use in the course
+* Increase confidence in your coding abilities
+* Acquire skills to conduct reproducible data analysis
+
+**How**: DataCamp
+
+* Won't need to have tools installed to start learning
+* Exercise based learning
+
+---
+class: font200
+# What You Will Learn 
+
+1. Introduction to Command Line Programming 
+2. Version Control with Git and GitHub 
+3. Introduction to R and the `tidyverse`
+4. Introduction to R Markdown
+
+**There's quite a bit to work through...** <br> $\implies$ *don't* leave this to the last minute
+
+---
+class: font160
+# Why this is Important
+
+* Starting point for the analysis in this class 
+  * We want everyone to start from the same blocks
+* Skills will generalize to all analytics tasks 
+  * In your degree 
+  * And in your future careers 
+    * ... tools we teach are tools that industry uses
+---
+class: font160
+# Command Line Programming 
+
+* Move away from 'point and click' to typed instructions
+* Your main focus:
+  * Navigating your filesystem
+  * Creating, moving, copying files
+  * Looking at contents of a file
+
+---
+class: font120
+# Version Control with Git and GitHub 
+
+* Manage changes made to files systematically
+
+* Git: records changes made to files 
+  - Can rewind
+  - No 'conflicted copy' errors
+  - Easy to collaborate
+
+* GitHub: a place to store version controlled projects (online)
+  - A central hub
+  - Facilitates collaboration within teams
+
+* Your main focus:
+  - How to make and track changes, reverse them
+  - How to share these changes online with collaborators
+  - Solve conflicts between different version histories
+
+---
+class: font130
+# Introduction to R and the tidyverse
+
+* `R`: a program for statistical / data - intensive analysis
+  - `R` plus its package eco-system contains everything we need for this course: network analysis, text analysis and econometrics
+  - ... and a *lot* more
+
+* `tidyverse`: opinionated collection of R packages for data Science
+  - Similar design philosophy, grammer and data structures $\implies$ consistent syntax
+
+* Your main focus:
+  - Loading data from a file
+  - Data manipulation using `dplyr` and `tidyr`
+  - Plotting with `ggplot2`
+
+---
+class: font160
+# Introduction to R Markdown
+
+* R Markdown: a file format to integrate code, results and written reports
+
+* Your main focus:
+  * How to create an R Markdown document
+  * How to add analyses and plots produced with R to a written document
+  * How to organize a report
+
+---
+class: font160
+# After DataCamp
+
+**How can I put everything I have learned together?**
+
+* Watch the video: ["Analytics with Git and R"](TODO: Add link)
+  * Walk through an example workflow
+  * Write some `R` code, commit changes with Git, undo some progress with Git
+
+---
+class: font160
+# After DataCamp  
+
+**How can I put everything I have learned together?**
+
+* Git in in this class:
+  - Cloning weekly tutorials
+  - Accepting and Submitting Assignments
+
+* Practice the workflows on the [course website](https://tisem-digital-marketing.github.io/2021-smwa/coding_tips/)
+
+---
+# License & Citation
+
+Suggested Citation:
+
+```{r, engine='out', eval = FALSE}
+@misc{smwa2021,
+      title={"Social Media and Web Analytics: Coding Bootcamp"},
+      author={Lachlan Deer},
+      year={2021},
+      url = "https://github.com/tisem-digital-marketing/smwa-codecamp"
+}
+```
+
+<p style="text-align:center;"><img src="https://www.tilburguniversity.edu/sites/default/files/styles/large_width/public/image/Logo%20OSCT.png?itok=PqU9mw_l" alt="Logo" width = "200"></p>
+
+This course adheres to the principles of the Open Science Community of Tilburg University. 
+This initiative advocates for transparency and accessibility in research and teaching to all levels of society and thus creating more accountability and impact.
+
+<p style="text-align:center;"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Logo" width = "100"></p>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
