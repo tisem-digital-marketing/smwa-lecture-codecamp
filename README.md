@@ -99,7 +99,7 @@ url = "https://github.com/tisem-digital-marketing/smwa-lecture-codecamp"
 ## Suggested Citation (Template)
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-lecture-template,
+@misc{smwa-codecamp2021,
       title={"Social Media and Web Analytics: Coding Bootcamp"},
       author={Lachlan Deer},
       year={2021},
