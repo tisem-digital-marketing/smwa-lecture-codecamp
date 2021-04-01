@@ -82,7 +82,7 @@ class: font130
 # Introduction to R and the tidyverse
 
 * `R`: a program for statistical / data - intensive analysis
-  - `R` plus its package eco-system contains everything we need for this course: network analysis, text analysis and econometrics
+  - `R` plus its package ecosystem contains everything we need for this course: network analysis, text analysis and econometrics
   - ... and a *lot* more
 
 * `tidyverse`: opinionated collection of R packages for data Science
