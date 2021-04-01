@@ -121,10 +121,11 @@ class: font160
 **How can I put everything I have learned together?**
 
 * Git in in this class:
-  - Cloning weekly tutorials
+  - Cloning weekly Lab material & making changes 
   - Accepting and Submitting Assignments
 
 * Practice the workflows on the [course website](https://tisem-digital-marketing.github.io/2021-smwa/coding_tips/)
+  * We will provide particular examples as needed
 
 ---
 # License & Citation
