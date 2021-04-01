@@ -17,7 +17,7 @@ class: font200
 
 # Learning Goals for this Week
 
-* Familarize yourself with the coding tools we use in the course
+* Familiarise yourself with the coding tools we use in the course
 * Increase confidence in your coding abilities
 * Acquire skills to conduct reproducible data analysis
 
@@ -43,7 +43,7 @@ class: font160
 
 * Starting point for the analysis in this class 
   * We want everyone to start from the same blocks
-* Skills will generalize to all analytics tasks 
+* Skills will generalise to all analytics tasks 
   * In your degree 
   * And in your future careers 
     * ... tools we teach are tools that industry uses
@@ -53,7 +53,7 @@ class: font160
 
 * Move away from 'point and click' to typed instructions
 * Your main focus:
-  * Navigating your filesystem
+  * Navigating your file system
   * Creating, moving, copying files
   * Looking at contents of a file
 
@@ -86,7 +86,7 @@ class: font130
   - ... and a *lot* more
 
 * `tidyverse`: opinionated collection of R packages for data Science
-  - Similar design philosophy, grammer and data structures $\implies$ consistent syntax
+  - Similar design philosophy, grammar and data structures $\implies$ consistent syntax
 
 * Your main focus:
   - Loading data from a file
@@ -102,7 +102,7 @@ class: font160
 * Your main focus:
   * How to create an R Markdown document
   * How to add analyses and plots produced with R to a written document
-  * How to organize a report
+  * How to organise a report
 
 ---
 class: font160
@@ -110,7 +110,7 @@ class: font160
 
 **How can I put everything I have learned together?**
 
-* Watch the video: ["Analytics with Git and R"](TODO: Add link)
+* Work through: ["How to Use Git/GitHub with R"](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
   * Walk through an example workflow
   * Write some `R` code, commit changes with Git, undo some progress with Git
 
