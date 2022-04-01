@@ -37,6 +37,8 @@ class: font200
 
 **There's quite a bit to work through...** <br> $\implies$ *don't* leave this to the last minute
 
+... even if you're comfortable with most of the tools
+
 ---
 class: font160
 # Why this is Important
@@ -47,6 +49,7 @@ class: font160
   * In your degree 
   * And in your future careers 
     * ... tools we teach are tools that industry uses
+
 ---
 class: font160
 # Command Line Programming 
@@ -121,11 +124,10 @@ class: font160
 **How can I put everything I have learned together?**
 
 * Git in in this class:
-  - Cloning weekly Lab material & making changes 
+  - Cloning weekly Lab Assignments & making changes to your solution
   - Accepting and Submitting Assignments
-
-* Practice the workflows on the [course website](https://tisem-digital-marketing.github.io/2021-smwa/coding_tips/)
-  * We will provide particular examples as needed
+* `R` in this class:
+  - All coding based components of this class build off `tidyverse` tool kit and principles
 
 ---
 # License & Citation
@@ -133,10 +135,10 @@ class: font160
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa2021,
+@misc{smwa2022,
       title={"Social Media and Web Analytics: Coding Bootcamp"},
       author={Lachlan Deer},
-      year={2021},
+      year={2022},
       url = "https://github.com/tisem-digital-marketing/smwa-codecamp"
 }
 ```
